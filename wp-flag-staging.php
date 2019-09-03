@@ -22,3 +22,6 @@ function toolbar_staging_alert( $wp_admin_bar ) {
 <style>
 #wpadminbar { background: #ff4400!important;}
 </style>
+
+<!-- todo -->
+<!-- write custom fields without using ACF -->
